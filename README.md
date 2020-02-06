@@ -8,6 +8,10 @@ An Android App for playing game of guessing a celebrity. It accesses json data f
 
 https://drive.google.com/file/d/1Ydot741vb_1iPxHTRR1WeTrtaleUTIn6/view?usp=drivesdk
 
+## Permissions:
+
+The application requires internet permission to work.
+
 ## Compatibility
 
 Software Compatibility: It is compatible with API 23 or greater.
