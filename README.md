@@ -2,7 +2,7 @@
 
 ## Description
 
-An Android App for playing game of guessing a celebrity. I access json data from a website at runtime and providing you an experience of playing a guessing game where you will see new celebrities whenever the website is updated.
+An Android App for playing game of guessing a celebrity. It accesses json data from a website at runtime and provide you an experience of playing a guessing game where you will see new celebrities whenever the website is updated.
 
 ## APK Url:
 
